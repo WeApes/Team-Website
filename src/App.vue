@@ -6,7 +6,7 @@
 
 <style lang="less">
   * {
-    font-family: "Open Sans", cursive, helvetica, sans-serif;
+    font-family: helvetica, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
