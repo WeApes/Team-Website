@@ -14,7 +14,7 @@ http.createServer(function (req, res) {
 
 
 handler.on('*', function (event) {
-		exec("git pull");
+		exec("git pull && pkill npm && nohup npm run dev &;");
 		console.log("redeploy");
 	}
 );
