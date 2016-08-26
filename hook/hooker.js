@@ -15,7 +15,7 @@ http.createServer(function (req, res) {
 
 handler.on('*', function (event) {
 		exec("git pull");
-		console.log("blog redeploy");
+		console.log("redeploy");
 	}
 );
 
