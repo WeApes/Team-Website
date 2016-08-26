@@ -1,0 +1,18 @@
+
+> team-website@1.0.0 dev /home/ubuntu/projects/team-website
+> node build/dev-server.js
+
+Listening at http://localhost:8080
+
+webpack: wait until bundle finished: /__webpack_hmr
+webpack built a74e35d4e68faca70024 in 7419ms
+Hash: [1ma74e35d4e68faca70024[22m
+Version: webpack [1m1.13.1[22m
+Time: [1m7419[22mms
+     [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+    [1m[32mapp.js[39m[22m     1.5 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+[1m[32mindex.html[39m[22m  207 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+         [1mAsset[22m     [1mSize[22m  [1mChunks[22m  [1m[22m     [1mChunk Names[22m
+    [1m[32mindex.html[39m[22m  21.4 kB       [1m0[22m  [1m[32m[39m[22m     
+webpack: bundle is now VALID.
